@@ -1,0 +1,11 @@
+C:\Users\PaulC\source\repos\mvp1\mvp1\bin\Debug\mvp1.exe.config
+C:\Users\PaulC\source\repos\mvp1\mvp1\bin\Debug\mvp1.exe
+C:\Users\PaulC\source\repos\mvp1\mvp1\bin\Debug\mvp1.pdb
+C:\Users\PaulC\source\repos\mvp1\mvp1\obj\Debug\mvp1.Properties.Resources.resources
+C:\Users\PaulC\source\repos\mvp1\mvp1\obj\Debug\mvp1.csproj.GenerateResource.cache
+C:\Users\PaulC\source\repos\mvp1\mvp1\obj\Debug\mvp1.csproj.CoreCompileInputs.cache
+C:\Users\PaulC\source\repos\mvp1\mvp1\obj\Debug\mvp1.exe
+C:\Users\PaulC\source\repos\mvp1\mvp1\obj\Debug\mvp1.pdb
+C:\Users\PaulC\source\repos\mvp1\mvp1\obj\Debug\MVP.OrderList.View.OrderListView.resources
+C:\Users\PaulC\source\repos\mvp1\mvp1\obj\Debug\MVP.OrderAddAmend.View.OrderAddAmendView.resources
+C:\Users\PaulC\source\repos\mvp1\mvp1\obj\Debug\mvp1.csprojAssemblyReference.cache
